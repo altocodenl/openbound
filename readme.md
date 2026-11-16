@@ -1,5 +1,7 @@
 # Openbound: a new type of company
 
+> "The basic factor in a revolution is the organization of the economic life of the country." -- Pyotr Kropotkin to Emma Goldman
+
 Some rough notes on the concept of openbound, which has been in my mind for a long time and is now aching to come out. Buyer beware: this is 1) political and controversial; 2) I have never managed (yet) to start a successful company.
 
 - Opposing capitalism is like standing in front of a train. And yet, capitalism left to itself creates our current state of affairs, which leaves a lot to be desired. The system is generating more wealth and innovation than ever before, but truly distributed abundance hasn't arrived yet.
